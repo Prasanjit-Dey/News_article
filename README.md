@@ -5,4 +5,4 @@ With the increasing amount of digital content and the expansion of the news indu
 
 ### Usefull link for Trained model and dataset
 
-- Model [https://github.com/Prasanjit-Dey/News_article](https://github.com/Prasanjit-Dey/News_article)
+- Model [https://www.kaggle.com/datasets/prasanjit123/trained-model](https://www.kaggle.com/datasets/prasanjit123/trained-model)
